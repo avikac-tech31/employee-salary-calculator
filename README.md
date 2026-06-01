@@ -11,4 +11,4 @@ A Python program that calculates:
 Created as part of my Class 11 Python learning journey.
 
 # Sample output
-See Output.jpg
+See Output-updated.jpg
