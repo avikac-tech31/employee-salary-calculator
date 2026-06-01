@@ -9,3 +9,6 @@ A Python program that calculates:
 - Net Pay
 
 Created as part of my Class 11 Python learning journey.
+
+# Sample output
+See Output.jpg
