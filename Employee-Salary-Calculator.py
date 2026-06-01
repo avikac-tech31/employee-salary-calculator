@@ -1,0 +1,12 @@
+n=input("Enter the name of employee.")
+bs=float(input("Enter basic salary."))
+da=25/100*bs
+hra=15/100*bs
+pf=12/100*bs
+np=bs+da+hra
+gp=np-pf
+print ("DA = ",da)
+print("HRA = ",hra)
+print("PF = ",pf)
+print("Net pay = ",np)
+print("Gross pay = ",gp)
